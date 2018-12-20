@@ -1,0 +1,16 @@
+/.idea
+/.project
+/.settings
+/*.iml
+
+/super-diamond-client/target
+/super-diamond-client/.classpath
+/super-diamond-client/.project
+/super-diamond-client/.settings
+/super-diamond-server/.classpath
+/super-diamond-server/.project
+/super-diamond-server/.settings
+/super-diamond-server/target
+/super-diamond-client/.springBeans
+
+/super-diamond-server/*.iml
